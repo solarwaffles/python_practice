@@ -33,5 +33,5 @@ def main():
   print("Digit  Count  %")
   for key in pop_freq.keys():
     print(key + "  " + str(pop_freq.get(key, 0)) + "  " + str(pop_freq.get(key, 0)/counter*100))
-  
+ 
 main()

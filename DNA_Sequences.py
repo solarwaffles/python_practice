@@ -5,7 +5,7 @@ def main():
     while True:
         s1 = in_file.readline().upper()
         s2 = in_file.readline().upper()
-        
+       
         if not s1:
             break
 
